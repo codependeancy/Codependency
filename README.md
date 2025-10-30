@@ -5,8 +5,7 @@ This skin is a modified version of @achillesuwu’s code on Tumblr, which I fell
 
 IMPORTANT: As I have absolutely 0 background in coding, I can only be sure that only these header and footer images will work for this code due to potential sizing issues. If you would like to customize your own header and footer images, please be advised that results may be cropped and that you would have to modify the code yourself. 
 
-Process Overview
-We are going to create a set of skins: BASE, LAPTOP, PHONE, and DEFAULT. Think of the whole process as building a house:
+Process Overview: We are going to create a set of skins: BASE, LAPTOP, PHONE, and DEFAULT. Think of the whole process as building a house:
 
 BASE is the foundation: it holds the structure, color palette, and main design of the entire layout.
 LAPTOP is the furnished home: it adds full-size elements and visuals that look best on wide screens.
