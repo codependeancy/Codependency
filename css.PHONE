@@ -1,0 +1,5 @@
+#header {
+  background-image: url("https://64.media.tumblr.com/dc0ab2ce553de6d91942842d7a553797/06b3c3010f3928e5-6d/s2048x3072/9b1e3244f4dbf99c709d072c9df382a51224bc29.jpg");
+  background-size: cover;
+  background-position: left center;
+}
